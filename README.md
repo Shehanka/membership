@@ -5,4 +5,5 @@ To become a member of this group, please edit this page to add your github id to
 
 - pbinkley - added
 - redlibrarian - added
+- kaitlinnewson
 - pgwillia
